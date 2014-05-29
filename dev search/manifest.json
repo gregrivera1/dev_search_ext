@@ -1,0 +1,10 @@
+{
+  "name": "Dev Search",
+  "description" : "To use, type 'java', 'php', etc plus a search term into the Omnibox.",
+  "version": "1.1",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "omnibox": { "keyword" : "dev" },
+  "manifest_version": 2
+}
